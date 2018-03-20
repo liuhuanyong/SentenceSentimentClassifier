@@ -1,8 +1,8 @@
 # LearningBasedSentiment
-Sentiment Classifier base on traditional Maching learning methods, eg Bayes, SVM ,DecisionTree, KNN and Deeplearning method like MLP,CNN,RNN(LSTM)
+**Sentiment Classifier** based on traditional Maching learning methods, eg. Bayes, SVM ,DecisionTree, KNN and Deeplearning method like MLP, CNN, RNN(LSTM).
 
 # 一、预处理
-1、 语料  
+1、语料  
 电影评论，训练集合20000（正向10000，负向10000）  
 电影评论，测试集合20000（正向3000，负向3000）  
 2、语料处理  
